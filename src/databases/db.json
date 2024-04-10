@@ -1,0 +1,295 @@
+{
+  "products": [
+    {
+      "id": "b9ad",
+      "stt": "1",
+      "Select": [
+        "43b1"
+      ],
+      "date": "2024-04-15T06:19:10.712Z"
+    }
+  ],
+  "orderbuy": [
+    {
+      "id": "a2fc",
+      "name": "Đặng Ngọc Minh Châu",
+      "addres": "123",
+      "phonenumber": "123",
+      "note": "123",
+      "listProduct": [
+        {
+          "id": "915d",
+          "title": "Redmi Note 13 Pro+ 5G",
+          "image": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2024/1/5/638400663078511962_xiaomi-redmi-note-13-vang.png",
+          "priceCost": "4.590.000",
+          "priceSale": "4.890.000",
+          "ram": "6",
+          "rom": "128",
+          "screenSize": "6.67",
+          "chip": "Snapdragon 685",
+          "description": "XIAOMI REDMI NOTE 13 SERIES",
+          "count": 1
+        },
+        {
+          "id": "a82b",
+          "title": "iPhone 15 Pro Max 256GB",
+          "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/10/30/638342502751589917_ip-15-pro-max-dd-bh-2-nam.jpg",
+          "priceCost": "34.990.000",
+          "priceSale": "32.690.000",
+          "ram": "8",
+          "rom": "2564",
+          "screenSize": "6.7",
+          "chip": "Apple A17 Pro",
+          "description": "6.7 inch, OLED, Super Retina XDR, 2796 x 1290 Pixels",
+          "count": 3
+        }
+      ],
+      "status": true
+    },
+    {
+      "id": "9368",
+      "name": "Chau Dang",
+      "addres": "123",
+      "phonenumber": "123",
+      "note": "123",
+      "listProduct": [
+        {
+          "id": "e8fb",
+          "title": "Samsung Galaxy S24 Ultra 5G 256GB",
+          "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2024/1/17/638411327082018867_samsung-galaxy-s24-ultra-dd.jpg",
+          "priceCost": "33.990.000",
+          "priceSale": "32.990.000",
+          "ram": "12",
+          "rom": "2556",
+          "screenSize": "6.8",
+          "chip": "Snapdragon 8 Gen 3",
+          "description": "Samsung Galaxy S24 Ultra là chiếc điện thoại Galaxy thông minh nhất từ trước đến nay với quyền năng kết nối, quyền năng sáng tạo và quyền năng giải trí đều được hỗ trợ bởi trí tuệ nhân tạo Galaxy AI. Thiết kế hoàn toàn mới từ bộ khung Titan đẳng cấp, siêu camera độ phân giải lên tới 200MP và bộ vi xử lý Snapdragon 8 Gen 3 for Galaxy sẽ mang đến trải nghiệm thú vị chưa từng có dành cho bạn.",
+          "count": 1
+        },
+        {
+          "id": "915d",
+          "title": "Redmi Note 13 Pro+ 5G",
+          "image": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2024/1/5/638400663078511962_xiaomi-redmi-note-13-vang.png",
+          "priceCost": "4.590.000",
+          "priceSale": "4.890.000",
+          "ram": "6",
+          "rom": "128",
+          "screenSize": "6.67",
+          "chip": "Snapdragon 685",
+          "description": "XIAOMI REDMI NOTE 13 SERIES",
+          "count": 1
+        },
+        {
+          "id": "a82b",
+          "title": "iPhone 15 Pro Max 256GB",
+          "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/10/30/638342502751589917_ip-15-pro-max-dd-bh-2-nam.jpg",
+          "priceCost": "34.990.000",
+          "priceSale": "32.690.000",
+          "ram": "8",
+          "rom": "2564",
+          "screenSize": "6.7",
+          "chip": "Apple A17 Pro",
+          "description": "6.7 inch, OLED, Super Retina XDR, 2796 x 1290 Pixels",
+          "count": 1
+        }
+      ],
+      "status": true
+    },
+    {
+      "id": "5fac",
+      "name": "Kean Dang",
+      "addres": "223 Truong Chinh",
+      "phonenumber": "0559399095",
+      "note": "notes",
+      "listProduct": [
+        {
+          "id": "e8fb",
+          "title": "Samsung Galaxy S24 Ultra 5G 256GB",
+          "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2024/1/17/638411327082018867_samsung-galaxy-s24-ultra-dd.jpg",
+          "priceCost": "33.990.000",
+          "priceSale": "32.990.000",
+          "ram": "12",
+          "rom": "2556",
+          "screenSize": "6.8",
+          "chip": "Snapdragon 8 Gen 3",
+          "description": "Samsung Galaxy S24 Ultra là chiếc điện thoại Galaxy thông minh nhất từ trước đến nay với quyền năng kết nối, quyền năng sáng tạo và quyền năng giải trí đều được hỗ trợ bởi trí tuệ nhân tạo Galaxy AI. Thiết kế hoàn toàn mới từ bộ khung Titan đẳng cấp, siêu camera độ phân giải lên tới 200MP và bộ vi xử lý Snapdragon 8 Gen 3 for Galaxy sẽ mang đến trải nghiệm thú vị chưa từng có dành cho bạn.",
+          "count": 1
+        },
+        {
+          "id": "915d",
+          "title": "Redmi Note 13 Pro+ 5G",
+          "image": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2024/1/5/638400663078511962_xiaomi-redmi-note-13-vang.png",
+          "priceCost": "4.590.000",
+          "priceSale": "4.890.000",
+          "ram": "6",
+          "rom": "128",
+          "screenSize": "6.67",
+          "chip": "Snapdragon 685",
+          "description": "XIAOMI REDMI NOTE 13 SERIES",
+          "count": 1
+        }
+      ],
+      "status": true
+    },
+    {
+      "id": "5646",
+      "name": "Chau",
+      "addres": "Chau",
+      "phonenumber": "Chau",
+      "note": "Chau",
+      "listProduct": [
+        {
+          "id": "6665",
+          "title": "OPPO A18 4GB 128GB ",
+          "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/11/30/638369330959006392_oppo-a18-dd-doimoi.jpg",
+          "priceCost": "3.990.000",
+          "priceSale": "3.890.000",
+          "ram": "6",
+          "rom": "128 ",
+          "screenSize": "6.56",
+          "chip": "Helio G85",
+          "description": "6.56 inch, LCD, HD+, 720 x 1612 Pixels",
+          "count": 1
+        },
+        {
+          "id": "a82b",
+          "title": "iPhone 15 Pro Max 256GB",
+          "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/10/30/638342502751589917_ip-15-pro-max-dd-bh-2-nam.jpg",
+          "priceCost": "34.990.000",
+          "priceSale": "32.690.000",
+          "ram": "8",
+          "rom": "2564",
+          "screenSize": "6.7",
+          "chip": "Apple A17 Pro",
+          "description": "6.7 inch, OLED, Super Retina XDR, 2796 x 1290 Pixels",
+          "count": 4
+        },
+        {
+          "id": "915d",
+          "title": "Redmi Note 13 Pro+ 5G",
+          "image": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2024/1/5/638400663078511962_xiaomi-redmi-note-13-vang.png",
+          "priceCost": "4.590.000",
+          "priceSale": "4.890.000",
+          "ram": "6",
+          "rom": "128",
+          "screenSize": "6.67",
+          "chip": "Snapdragon 685",
+          "description": "XIAOMI REDMI NOTE 13 SERIES",
+          "count": 1
+        }
+      ],
+      "status": true
+    },
+    {
+      "id": "a898",
+      "name": "12321",
+      "addres": "3123",
+      "phonenumber": "2131",
+      "note": "23123",
+      "listProduct": [
+        {
+          "id": "e8fb",
+          "title": "Samsung Galaxy S24 Ultra 5G 256GB",
+          "image": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2024/1/17/638411327082018867_samsung-galaxy-s24-ultra-dd.jpg",
+          "priceCost": "33.990.000",
+          "priceSale": "32.990.000",
+          "ram": "12",
+          "rom": "2556",
+          "screenSize": "6.8",
+          "chip": "Snapdragon 8 Gen 3",
+          "description": "Samsung Galaxy S24 Ultra là chiếc điện thoại Galaxy thông minh nhất từ trước đến nay với quyền năng kết nối, quyền năng sáng tạo và quyền năng giải trí đều được hỗ trợ bởi trí tuệ nhân tạo Galaxy AI. Thiết kế hoàn toàn mới từ bộ khung Titan đẳng cấp, siêu camera độ phân giải lên tới 200MP và bộ vi xử lý Snapdragon 8 Gen 3 for Galaxy sẽ mang đến trải nghiệm thú vị chưa từng có dành cho bạn.",
+          "count": 1
+        },
+        {
+          "id": "915d",
+          "title": "Redmi Note 13 Pro+ 5G",
+          "image": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2024/1/5/638400663078511962_xiaomi-redmi-note-13-vang.png",
+          "priceCost": "4.590.000",
+          "priceSale": "4.890.000",
+          "ram": "6",
+          "rom": "128",
+          "screenSize": "6.67",
+          "chip": "Snapdragon 685",
+          "description": "XIAOMI REDMI NOTE 13 SERIES",
+          "count": 2
+        }
+      ],
+      "status": true
+    },
+    {
+      "id": "40a0",
+      "name": "king",
+      "addres": "chau",
+      "phonenumber": "chauc",
+      "note": "acha",
+      "listProduct": [
+        {
+          "id": "915d",
+          "title": "Redmi Note 13 Pro+ 5G",
+          "image": "https://images.fpt.shop/unsafe/fit-in/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2024/1/5/638400663078511962_xiaomi-redmi-note-13-vang.png",
+          "priceCost": "4.590.000",
+          "priceSale": "4.890.000",
+          "ram": "6",
+          "rom": "128",
+          "screenSize": "6.67",
+          "chip": "Snapdragon 685",
+          "description": "XIAOMI REDMI NOTE 13 SERIES",
+          "count": 2
+        }
+      ],
+      "status": true
+    },
+    {
+      "id": "0467",
+      "name": "123",
+      "addres": "214",
+      "phonenumber": "124",
+      "note": "124",
+      "listProduct": [
+        {
+          "id": "3334",
+          "title": "124",
+          "image": "124",
+          "priceCost": "124",
+          "priceSale": "124",
+          "ram": "124",
+          "rom": "124",
+          "screenSize": "124",
+          "chip": "124",
+          "description": "124",
+          "count": 9
+        }
+      ],
+      "status": true
+    }
+  ],
+  "category": [
+    {
+      "id": "50ab",
+      "name": "Nhạc",
+      "value": "20"
+    },
+    {
+      "id": "43b1",
+      "name": "Sách ",
+      "value": "50"
+    },
+    {
+      "id": "2527",
+      "name": "Truyện",
+      "value": "30"
+    }
+  ],
+  "user": [
+    {
+      "id": "c239",
+      "name": "213",
+      "namSinh": "2024-04-17T07:56:38.552Z"
+    },
+    {
+      "id": "2b53",
+      "name": "123",
+      "namSinh": "2024-04-23T09:20:36.437Z"
+    }
+  ]
+}

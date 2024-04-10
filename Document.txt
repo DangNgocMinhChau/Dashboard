@@ -1,0 +1,30 @@
+ 
+Open the server
+
+1: Go to folder => shopping-cart\src\databases
+2: open CMD 
+ json-server --watch db.json --port 8080
+
+
+
+I describe my project
+
+- I have made 1 homepage and 1 portal page
+- The home page is where customers can choose to buy products. 
+  When customers click buy, 
+  the quantity in the shopping cart will skyrocket.
+- When the customer clicks buy, the cart will be empty
+- In the shopping cart, customers can change the purchase quantity 
+   and the system automatically calculates the total price
+
+
+Portal page description
+- http://localhost:3000/portal
+- In the portal page, I have just developed the products section
+- In the product section there are 2 parts: product management and order management
+- Product management will be to add, edit, and delete products that will be displayed on the homepage
+- In the order page there will be 2 tabs, new orders and delivered orders
+
+- My project code is pure HTML and SCSS, I only use antd to use modal, form and table
+- I created the layout myself and designed it according to a website I consulted online https://fptshop.com.vn/
+- I haven't responded to it yet, I'll keep working on it

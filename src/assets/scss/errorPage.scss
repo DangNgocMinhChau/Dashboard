@@ -1,0 +1,33 @@
+
+.error-pages {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    &-text {
+        font-size: 24px;
+        text-transform: uppercase;
+        font-weight: 700;
+        margin-bottom: 20px;
+    }
+    &-subtext {
+        font-size: 16px;
+        color: $textFading;
+        margin-bottom: 20px;
+    }
+    &-btn {
+        background-color:  #1f9af4;
+        width: 300px;
+        height: 40px;
+        text-align: center;
+        line-height: 40px;
+        color: $textColorWhite;
+        border-radius: 20px;
+        &:hover {
+            cursor: pointer;
+            box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+
+        }
+    }
+}
